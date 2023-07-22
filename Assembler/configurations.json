@@ -1,0 +1,6 @@
+{
+    "input_path" : "TwoOperand.asm",
+    "output_path" : "TwoOperand.mem",
+    "mode" : "memory",
+    "instance" : "/ram/ram"
+}
