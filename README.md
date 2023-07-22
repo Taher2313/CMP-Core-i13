@@ -1,5 +1,5 @@
 # CMP core i1
- Computer architecture pipelined processor
+ Computer architecture pipelined processor.
 
 ## Design
 
